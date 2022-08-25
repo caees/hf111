@@ -3,7 +3,7 @@ library(tidyverse)
 library(readr)
 library(readxl)
 
-PATH_RREO <- "/Users/rebecacarmodesouzacruz/Library/CloudStorage/OneDrive-Pessoal/Ministério da Saúde/Produtos/Produtos 2021 2022/Produto 5/Dados/SIOPS/" # Copie o endereço que o arquivo está (lembre de trocar a direção das barras)
+PATH_RREO <- "path" # Copie o endereço que o arquivo está (lembre de trocar a direção das barras)
 
 RREO_ESTADUAL <- data.table()
 RREO_MUNICIPAL <- data.table()
