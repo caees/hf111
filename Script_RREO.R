@@ -3,7 +3,7 @@ library(tidyverse)
 library(readr)
 library(readxl)
 
-PATH_RREO <- "path" # Copie o endereço que o arquivo está (lembre de trocar a direção das barras)
+PATH_RREO <- "PATH" # Copie o endereço que o arquivo está (lembre de trocar a direção das barras)
 
 RREO_ESTADUAL <- data.table()
 RREO_MUNICIPAL <- data.table()
